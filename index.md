@@ -13,11 +13,7 @@ Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah 
 
 ### Healthcare
 
-- Healthcare is cheap
-- Enforced sanitation and cleanliness
-- Effective treatment of patients
-- Skilled doctors and nurses
-- Constantly developing and improving
+Newer York's affordable healthcare is some of the best in the world, with high-quality doctors and nurses and . Several sanitation policies enforce cleanliness in our healthcare facilities. New treatments and facilities are constantly being developed and improved to provide the best services. Our emergency services respond almost immediately during an accident.
 
 ### Governance
 
