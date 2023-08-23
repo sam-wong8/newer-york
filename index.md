@@ -1,17 +1,17 @@
-# Welcome to Newer York! <img align="right" width="200" height="200" src="./images/nature.jpg">
+## Welcome to Newer York! <img align="right" width="200" height="200" src="./images/nature.jpg">
 
 #### Also known as "New New York"
 
 Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
-## Availability of Goods and Services
+### Availability of Goods and Services
 
 - There is easy access to goods and services
 - Plenty of stores such as IKEA and 7-Eleven
 - They're everywhere in the city
 - Convenient and Accessible
 
-## Healthcare
+### Healthcare
 
 - Healthcare is cheap
 - Enforced sanitation and cleanliness
@@ -19,7 +19,7 @@ Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah 
 - Skilled doctors and nurses
 - Constantly developing and improving
 
-## Governance
+### Governance
 
 - Stable
 - Little to no discrimination
@@ -27,7 +27,7 @@ Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah 
 - Good foreign relations
 - Little to no corruption
 
-## Safety
+### Safety
 
 - Few natural disasters
 - Little to no local conflict
@@ -36,7 +36,7 @@ Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah 
 - Great police force that responds quickly
 - Little to no war and international conflict
 
-## Housing
+### Housing
 
 - Cheap
 - Available
@@ -44,21 +44,21 @@ Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah 
 - Lots of facilities such as water and electricity
 - Close to other facilities
 
-## Transport
+### Transport
 
 - Good biking infrastructure
 - Roads are in good condition
 - Train stations and bus stops are numerous
 - Lots of zebra crossings to ensure safe pedestrian travel
 
-## Recreational Facilities
+### Recreational Facilities
 
 - A large stadium for sports
 - Theatre
 - Libraries(books are great!)
 - Massive beach that *isn't* filled with a sea of plastic
 
-## Sustainability
+### Sustainability
 
 - Recycling facilities
 - Switched over to nuclear power
@@ -71,4 +71,4 @@ Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah 
 
 Conclusion stuff, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
-#### I'm not finished with my project yet :/
+##### I'm not finished with my project yet :/
