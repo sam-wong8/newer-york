@@ -7,10 +7,6 @@ Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah 
 ### Availability of Goods and Services
 
 Newer York has numerous retail stores across the city, with quality goods and services provided in each one. 
-- There is easy access to goods and services
-- Plenty of stores such as IKEA and 7-Eleven
-- They're everywhere in the city
-- Convenient and Accessible
 
 ### Healthcare
 
