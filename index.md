@@ -13,7 +13,7 @@ Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah 
 
 ### Healthcare
 
-Newer York's affordable healthcare is some of the best in the world, with high-quality doctors and nurses and . Several sanitation policies enforce cleanliness in our healthcare facilities. New treatments and facilities are constantly being developed and improved to provide the best services. Our emergency services respond almost immediately during an accident.
+Newer York's affordable healthcare is some of the best in the world. High-quality doctors and nurses are always at your service, and several sanitation policies enforce cleanliness in our healthcare facilities. New technologies and treatments are constantly being developed and improved to provide the best services. We prioritise regular check-ups and try to prevent emergencies before they happen. Our emergency services respond almost immediately during an accident. Newer York has supported many initiatives to improve the welfare and health of the community, and we highly encourage physical activity, healthy eating, and mental wellbeing.
 
 ### Governance
 
@@ -50,7 +50,7 @@ In Newer York, your safety is our top priority.
 
 ### Recreational Facilities
 
-Newer York has a variety of entertainment facilities that make living here a blast! We have a giant sport stadium. There's also a nice beach where you can relax and sit in the sun. We also have one of the biggest libraries in Europe, where you can search for records that go as far back as Ancient Egyptian times! There is also a large theatre where world-class plays are performed.
+Newer York has a variety of entertainment facilities that make living here a blast! Visit Azure Bay, a breathtaking beach renowned for its cleanliness and purity. We work hard to preserve the beauty of Azure Bay, and have many environmental policies to ensure it remains free of pollution. We also boast the York Library, one of the largest libraries in Europe! It's a treasure trove of information from all around the world! Our massive sports stadium hosts a variety of athletic events, tournaments, and professional matches. There's also our indoor public pool, with crystal clear waters, a place where swimmers from beginners to experts can have fun swimming!
 
 ### Sustainability
 
