@@ -49,10 +49,7 @@ Newer York's affordable healthcare is some of the best in the world, with high-q
 
 ### Recreational Facilities
 
-- A large stadium for sports
-- Theatre
-- Libraries(books are great!)
-- Massive beach that *isn't* filled with a sea of plastic
+Newer York has a variety of recreational facilities that suit all kinds of recreational activity
 
 ### Sustainability
 
