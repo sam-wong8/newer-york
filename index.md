@@ -25,6 +25,7 @@ Newer York's affordable healthcare is some of the best in the world, with high-q
 
 ### Safety
 
+In Newer York, your safety is our top priority.
 - Few natural disasters
 - Little to no local conflict
 - Low traffic accidents
@@ -49,7 +50,7 @@ Newer York's affordable healthcare is some of the best in the world, with high-q
 
 ### Recreational Facilities
 
-Newer York has a variety of recreational facilities that suit all kinds of recreational activity
+Newer York has a variety of entertainment facilities that make living here a blast! We have a giant sport stadium. There's also a nice beach where you can relax and sit in the sun. We also have one of the biggest libraries in Europe, where you can search for records that go as far back as Ancient Egyptian times! There is also a large theatre where world-class plays are performed.
 
 ### Sustainability
 
