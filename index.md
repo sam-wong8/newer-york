@@ -1,6 +1,6 @@
-# Welcome to Uranio! <img align="right" width="100" height="100" src="./images/nature.jpg">
+# Welcome to Uranio! <img align="right" width="200" height="200" src="./images/nature.jpg">
 
-#### I'm not finished with my project yet :/
+Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
 ## Availability of Goods and Services
 
@@ -64,5 +64,11 @@
 - Good biking infrastructure, bikes are cheap and easy to find
 - Low traffic congestion(public transport and biking could help)
 - Great waste management, don't just dump them all in landfills or to foreign nations
+
+<img align="right" width="200" height="200" src="./images/river.jpg">
+
+Conclusion stuff, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
+
+#### I'm not finished with my project yet :/
 
 (Uranio is a placeholder name, I'll come up with a better one later)
