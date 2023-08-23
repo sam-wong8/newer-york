@@ -4,6 +4,6 @@ github:
   is_project_page: false
 permalink: /:slug
 
-remote_theme: pages-themes/cayman
+remote_theme: mmistakes/minimal-mistakes
 plugins:
 - jekyll-remote-theme
