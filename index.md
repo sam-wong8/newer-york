@@ -63,7 +63,7 @@ Newer York's affordable healthcare is some of the best in the world, with high-q
 - Low traffic congestion(public transport and biking could help)
 - Great waste management, don't just dump them all in landfills or to foreign nations
 
-<img align="right" width="200" height="200" src="./images/river.jpg">
+<img align="left" width="200" height="200" src="./images/river.jpg">
 
 Conclusion stuff, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
