@@ -1,6 +1,7 @@
 title: Uranio
 description: Meet Uranio, a city that has transitioned to nuclear energy
-url: https://sam-wong8.github.io/uranio/
+github:
+  is_project_page: false
 permalink: /:slug
 
 remote_theme: pages-themes/cayman
