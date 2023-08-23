@@ -35,11 +35,7 @@ In Newer York, your safety is our top priority.
 
 ### Housing
 
-- Cheap
-- Available
-- Large and spacious, not cramped
-- Lots of facilities such as water and electricity
-- Close to other facilities
+Housing in Newer York is cheap and available, and there are plenty of options to choose from. You can choose a scenic view of Azure Bay, or you could decide to live in an apartment near the bustling city centre with excellent facilities a few footsteps away. You could also choose to live in the spacious countryside and be free from the chaos of the city. Newer York's housing is, of course, powered by eco-friendly nuclear energy.
 
 ### Transport
 
