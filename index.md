@@ -6,7 +6,7 @@ Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah 
 
 ### Availability of Goods and Services
 
-Newer York has numerous retail stores across the city, with quality goods and services provided in each one. 
+Newer York has numerous retail stores across the city, with quality goods and services provided in each one. From high-end brands to budget-friendly options, shoppers can find everything they need. Dining options in Newer York are some of the best in the world, with exquisite cuisine from all around the world. The thriving local market is home to a large amount of handmade crafts and locally-sourced food and beverages. 
 
 ### Healthcare
 
@@ -51,7 +51,7 @@ Newer York has a variety of entertainment facilities that make living here a bla
 - Low traffic congestion(public transport and biking could help)
 - Great waste management, don't just dump them all in landfills or to foreign nations
 
-<img align="left" width="200" height="200" src="./images/river.jpg">
+<img align="right" width="200" height="200" src="./images/river.jpg">
 
 Conclusion stuff, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
