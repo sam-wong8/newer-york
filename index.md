@@ -43,10 +43,7 @@ In Newer York, your safety is our top priority.
 
 ### Transport
 
-- Good biking infrastructure
-- Roads are in good condition
-- Train stations and bus stops are numerous
-- Lots of zebra crossings to ensure safe pedestrian travel
+Public transport is easily accessible, with our excellent subway system reaching to every corner of the city, allowing convenient travel 24/7. Accessibility is a key priority in Newer York, our train stations are equipped with elevators and ramps, and we encourage the community to give their seat to those who need it more than them. Not only that, in Newer york, you can get almost anywhere on bike, with bike lanes stretching across the city and high-quality biking infrastructure available everywhere in the city. Although we highly encourage biking and public transportation, Newer York has well-maintained roads with advanced traffic infrastructure that ensures the safety of the community, and traffic accidents are rare.
 
 ### Recreational Facilities
 
