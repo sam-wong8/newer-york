@@ -1,6 +1,4 @@
-# Welcome to Uranio!
-
-![city](./images/nature.jpg)
+# Welcome to Uranio! <img align="right" width="256" height="256" src="./images/nature.jpg">
 
 #### I'm not finished with my project yet :/
 
