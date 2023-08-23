@@ -4,6 +4,6 @@ github:
   is_project_page: false
 permalink: /:slug
 
-remote_theme: LeNPaul/Millennial
+remote_theme: pages-themes/slate
 plugins:
 - jekyll-remote-theme
