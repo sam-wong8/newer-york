@@ -1,4 +1,4 @@
-# Welcome to Uranio! <img align="right" width="200" height="200" src="./images/nature.jpg">
+# Welcome to Newer York! <img align="right" width="200" height="200" src="./images/nature.jpg">
 
 #### Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
@@ -70,5 +70,3 @@
 #### Conclusion stuff, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
 #### I'm not finished with my project yet :/
-
-(Uranio is a placeholder name, I'll come up with a better one later)
