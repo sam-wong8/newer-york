@@ -24,13 +24,7 @@ Newer York's affordable healthcare is some of the best in the world. High-qualit
 
 ### Safety
 
-In Newer York, your safety is our top priority.
-- Few natural disasters
-- Little to no local conflict
-- Low traffic accidents
-- Low crime rates
-- Great police force that responds quickly
-- Little to no war and international conflict
+In Newer York, your safety is our top priority. Our police force is effective and responds quickly to settle any local conflict and crime. Traffic accidents happen rarely, as most people in Newer York tend to use our incredibly effective public transportation and our biking infrastructure is outstanding. We have good foreign relations, so there is little to no war and international conflict. 
 
 ### Housing
 
