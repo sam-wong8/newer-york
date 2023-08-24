@@ -20,7 +20,7 @@ The city of Newer York has a fair democracy, ensuring every citizen has their vo
 
 ### Safety
 
-In Newer York, your safety is our top priority. Our police force is effective and responds quickly to settle any local conflict and crime. Traffic accidents happen rarely, as most people in Newer York tend to use our incredibly effective public transportation and our biking infrastructure is outstanding. We have good foreign relations, so there is little to no war and international conflict. 
+In Newer York, your safety is our top priority. Our police force is effective and responds quickly to settle any local conflict and crime. Traffic accidents happen rarely, as most people in Newer York tend to use our incredibly effective public transportation and our biking infrastructure is outstanding. We have good foreign relations, so there is little to no war and international conflict. As Newer York relies heavily on nuclear power, we make sure we have safety measures and precautions to reduce the risk of a meltdown, and we make sure that the reactor itself is far away from citizens.
 
 ### Housing
 
@@ -36,6 +36,7 @@ Newer York has a variety of entertainment facilities that make living here a bla
 
 ### Sustainability
 
+Newer York has an effective recycling program, recycling bins are everywhere in the city and advanced sorting technologies are used to minimise waste sent to landfills. Newer York is renowned for fully switching to nuclear power.
 - Recycling facilities
 - Switched over to nuclear power
 - Biking is heavily encouraged
