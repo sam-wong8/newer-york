@@ -1,6 +1,6 @@
 title: Newer York
 description: Meet Newer York, a city that's much newer than New York
-favicon: "./favicon.ico"
+favicon: "ilovenny.svg"
 github:
   is_project_page: false
 permalink: /:slug
