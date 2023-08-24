@@ -16,11 +16,7 @@ Newer York's affordable healthcare is some of the best in the world. High-qualit
 
 ### Governance
 
-- Stable
-- Little to no discrimination
-- Fair judgement and elections
-- Good foreign relations
-- Little to no corruption
+The city of Newer York has a fair democracy, ensuring every citizen has their voice heard. Newer York has laws against any discrimination and ensures that judgement and elections are fair, and any citizen can run for leadership positions. Newer York's foreign relations are strong, the city actively encourages cooperation between foreign nations, promoting peace, strong alliances, and global progress. There are several laws that ensure there is little to no corruption and that power is not abused for self gain or short term profits. Newer York's government is transparent, public officials are held accountable for their actions and information on governmental activity and policies are required to be disclosed by law.
 
 ### Safety
 
