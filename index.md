@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+
 ## Welcome to Newer York! <img align="right" width="200" height="200" src="./images/nature.jpg">
 
 #### Also known as "New New York"
