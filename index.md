@@ -38,9 +38,9 @@ Newer York has a variety of entertainment facilities that make living here a bla
 
 Newer York has an effective recycling program, recycling bins are everywhere in the city and advanced sorting technologies are used to minimise waste sent to landfills. We also recognise that composting is an effective and useful way to reuse waste, and we actively encouraged our community to seperate food scraps from other waste. Newer York is renowned for fully switching to nuclear power. We effectively recycle used nuclear fuel to reduce the amount of nuclear waste we produce. We also highly encourage biking and have invested heavily in biking infrastructure, promoting physical fitness, reducing traffic congestion, and minimising our carbon footprint. We care about the environment, so we fund initiatives and raise awareness on environmental issues and promote sustainable practises so future generations can live in a better world.
 
-<p align="right">
-
 ## Conclusion <img align="left" width="200" height="200" src="./images/river.jpg">
+
+<p align="right">
 
 Conclusion stuff, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
