@@ -41,7 +41,7 @@ Newer York has an effective recycling program, recycling bins are everywhere in 
 - Switched over to nuclear power
 - Biking is heavily encouraged
 - Good biking infrastructure, bikes are cheap and easy to find
-- Low traffic congestion(public transport and biking could help)
+- Low traffic congestion (public transport and biking could help)
 - Great waste management, don't just dump them all in landfills or to foreign nations
 
 <img align="right" width="200" height="200" src="./images/river.jpg">
