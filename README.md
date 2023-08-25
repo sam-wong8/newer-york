@@ -1,3 +1,6 @@
 # Welcome to Newer York
 
 A city newer than New York!
+
+> [!NOTE]
+> POE WAS ONLY USED AS A REFERENCE, MOST OF THE INFORMATION IT SPAT OUT WAS GARBAGE ANYWAYS
