@@ -8,7 +8,7 @@
 
 #### Also known as "New New York"
 
-Introduction stuff, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
+Newer York is the superior successor to New York. Newer York's healthcare is the best in the world, with clean, efficient facilities and new technologies and treatments are always being developed. With a fair democracy and a stable, uncorrupt government, Newer York's government is transparent and there are laws against discrimination. With convenient access to goods and services, accessible public transportation, excellent recreational facilities, and affordable housing, living here is comfortable. And you can be rest assured knowing that your safety is our number one priority, with an effective police force and good foreign relations, conflict is minimal. Of course, Newer York strives to be sustainable, with many environmental policies and a switch over to nuclear energy, we try to preserve the environment and our resources so generations now and in the future can live a healthy and happy life.
 
 ## Availability of Goods and Services
 
@@ -16,7 +16,7 @@ Newer York has numerous retail stores across the city, with quality goods and se
 
 ## Healthcare
 
-Newer York's affordable healthcare is some of the best in the world. High-quality doctors and nurses are always at your service, and several sanitation policies enforce cleanliness in our healthcare facilities. New technologies and treatments are constantly being developed and improved to provide the best services. We prioritise regular check-ups and try to prevent emergencies before they happen. Our emergency services respond almost immediately during an accident. Newer York has supported many initiatives to improve the welfare and health of the community, and we highly encourage physical activity, healthy eating, and mental wellbeing.
+Newer York's affordable healthcare is the best in the world. High-quality doctors and nurses are always at your service, and several sanitation policies enforce cleanliness in our healthcare facilities. New technologies and treatments are constantly being developed and improved to provide the best services. We prioritise regular check-ups and try to prevent emergencies before they happen. Our emergency services respond almost immediately during an accident. Newer York has supported many initiatives to improve the welfare and health of the community, and we highly encourage physical activity, healthy eating, and mental wellbeing.
 
 ## Governance
 
@@ -40,7 +40,7 @@ Newer York has a variety of entertainment facilities that make living here a bla
 
 ## Sustainability
 
-Newer York has an effective recycling program, recycling bins are everywhere in the city and advanced sorting techniques are used to minimise waste sent to landfills. We also recognise that composting is an effective and useful way to reuse waste, and we actively encouraged our community to seperate food scraps from other waste. Newer York is renowned for fully switching to nuclear power. We effectively recycle used nuclear fuel to reduce the amount of nuclear waste we produce. We also highly encourage biking and have invested heavily in biking infrastructure, promoting physical fitness, reducing traffic congestion, and minimising our carbon footprint. We care about the environment, so we fund initiatives and raise awareness on environmental issues and promote sustainable practises so future generations can live in a better world.
+Newer York has an effective recycling program, recycling bins are everywhere in the city and advanced sorting techniques are used to minimise waste sent to landfills. We also recognise that composting is an effective and useful way to reuse waste, and we actively encouraged our community to seperate food scraps from other waste. Newer York is renowned for fully switching to nuclear power. We effectively recycle used nuclear fuel to reduce the amount of nuclear waste we produce. We also highly encourage biking and have invested heavily in biking infrastructure, promoting physical fitness, reducing traffic congestion, and minimising our carbon footprint. We care about the environment, so we fund initiatives and raise awareness on environmental issues and promote sustainable practises so current and future generations can live in a better world.
 
 <img align="right" width="200" height="200" src="./images/river.jpg" alt="image of city and a lake">
 
