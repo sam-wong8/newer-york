@@ -14,7 +14,7 @@ Newer York is the superior successor to New York. Newer York's healthcare is the
 
 Newer York has numerous retail stores across the city, with quality goods and services provided in each one. From high-end brands to budget-friendly options, shoppers can find everything they need. Dining options in Newer York are some of the best in the world, with exquisite cuisine from all around the world. 
 
-We try to be sustainable, however, so we seek for local suppliers from Newer York first. Only when we cannot source things we **need** we seek non-local suppliers. We also try to use every usable part of a resource to minimise waste. 
+We try to be sustainable, however, so we seek for local suppliers from Newer York first. Only when we cannot source things we need we seek non-local suppliers. We also try to use every usable part of a resource to minimise waste. 
 
 ## Healthcare
 
