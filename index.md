@@ -18,9 +18,9 @@ We try to be sustainable, however, so we seek for local suppliers from Newer Yor
 
 ## Healthcare
 
-Newer York's affordable healthcare is the best in the world. High-quality doctors and nurses are always at your service, and several sanitation policies enforce cleanliness in our healthcare facilities. 
+Newer York's affordable healthcare the best in the world. High-quality doctors and nurses are always at your service, and several sanitation policies enforce cleanliness in our healthcare facilities. 
 
-New technologies and treatments are constantly being developed and improved to provide the best services. 
+New technologies and treatments are constantly being developed and improved to provide the best healthcare. 
 
 We prioritise regular check-ups and try to prevent emergencies before they happen. Our emergency services respond almost immediately during an accident. 
 
@@ -66,7 +66,9 @@ Newer York has a variety of entertainment facilities that make living here a bla
 
 Newer York has an effective recycling program, recycling bins are everywhere in the city and advanced sorting techniques are used to minimise waste sent to landfills. We also recognise that composting is an effective and useful way to reuse waste, and we actively encouraged our community to seperate food scraps from other waste. 
 
-ewer York is renowned for fully switching to nuclear power. We effectively recycle used nuclear fuel to reduce the amount of nuclear waste we produce. 
+We are also actively working on minimising the amount of single-use plastics we use, and we are trying to transition over to using recycled paper.
+
+Newer York is renowned for fully switching to nuclear power. We effectively recycle used nuclear fuel to reduce the amount of nuclear waste we produce. 
 
 We also highly encourage biking and have invested heavily in biking infrastructure, promoting physical fitness, reducing traffic congestion, and minimising our carbon footprint. We care about the environment, so we fund initiatives and raise awareness on environmental issues and promote sustainable practises so current and future generations can live in a better world.
 
