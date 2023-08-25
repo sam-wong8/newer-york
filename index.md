@@ -12,11 +12,9 @@ Newer York is the superior successor to New York. Newer York's healthcare is the
 
 ## Availability of Goods and Services
 
-Newer York has numerous retail stores across the city, with quality goods and services provided in each one. From high-end brands to budget-friendly options, shoppers can find everything they need. 
+Newer York has numerous retail stores across the city, with quality goods and services provided in each one. From high-end brands to budget-friendly options, shoppers can find everything they need. Dining options in Newer York are some of the best in the world, with exquisite cuisine from all around the world. 
 
-Dining options in Newer York are some of the best in the world, with exquisite cuisine from all around the world. 
-
-The thriving local market is home to a large amount of handmade crafts and locally-sourced food and beverages. 
+We try to be sustainable, however, so we seek for local suppliers from Newer York first. Only when we cannot source things we **need** we seek non-local suppliers. We also try to use every usable part of a resource to minimise waste. 
 
 ## Healthcare
 
@@ -66,7 +64,7 @@ Newer York has a variety of entertainment facilities that make living here a bla
 
 ## Sustainability
 
-Newer York has an effective recycling program, recycling bins are everywhere in the city and advanced sorting techniques are used to minimise waste sent to landfills. We also recognise that composting is an effective and useful way to reuse waste, and we actively encouraged our community to seperate food scraps from other waste. N
+Newer York has an effective recycling program, recycling bins are everywhere in the city and advanced sorting techniques are used to minimise waste sent to landfills. We also recognise that composting is an effective and useful way to reuse waste, and we actively encouraged our community to seperate food scraps from other waste. 
 
 ewer York is renowned for fully switching to nuclear power. We effectively recycle used nuclear fuel to reduce the amount of nuclear waste we produce. 
 
@@ -82,6 +80,7 @@ Not only that, Newer York has a large focus on being sustainable, minimising was
 
 ## Sources
 
+- A Gentle Footprint. (n.d.). Fogo Island Inn. [https://fogoislandinn.ca/contact-us/a-gentle-footprint/](url)
 - Poe - Fast, Helpful AI Chat. (n.d.). Poe.com. [https://poe.com](url)
 - World Nuclear Association. (2018). Processing of Used Nuclear Fuel - World Nuclear Association. World-Nuclear.org. [https://world-nuclear.org/information-library/nuclear-fuel-cycle/fuel-recycling/processing-of-used-nuclear-fuel.aspx](url)
 
