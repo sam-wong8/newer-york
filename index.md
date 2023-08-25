@@ -46,7 +46,7 @@ Newer York has an effective recycling program, recycling bins are everywhere in 
 
 ## Conclusion
 
-Conclusion stuff, blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
+From great healthcare, an emphasis for your safety and a strong and stable government to convenient transportation, accessible goods and services, cheap housing and amazing recreational activities, Newer York has everything you could possibly want! Not only that, Newer York has a large focus on being sustainable, minimising waste sent to landfills, promoting many environmental initiatives, and fully switching over to nuclear energy, one of the better alternatives to fossil fuels.
 
 ## Sources
 
