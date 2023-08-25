@@ -1,5 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 
+#### I'm not finished with my project yet :/
+
 <img align="right" width="200" height="200" src="./images/nature.jpg" alt="image of city filled with nature">
 
 # Welcome to Newer York! 
@@ -51,6 +53,4 @@ Conclusion stuff, blah blah blah blah blah blah blah blah blah blah blah blah bl
 - Poe - Fast, Helpful AI Chat. (n.d.). Poe.com. [https://poe.com](url)
 - World Nuclear Association. (2018). Processing of Used Nuclear Fuel - World Nuclear Association. World-Nuclear.org. [https://world-nuclear.org/information-library/nuclear-fuel-cycle/fuel-recycling/processing-of-used-nuclear-fuel.aspx](url)
 
-#### I only used Poe as a reference, I didn't generate the whole thing with AI (most of the information it spat out was garbage anyways and probably exceeded the word count)
-
-#### I'm not finished with my project yet :/
+### I only used Poe as a reference, I didn't generate the whole thing with AI (most of the information it spat out was garbage anyways and probably exceeded the word count)
