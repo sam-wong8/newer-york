@@ -2,7 +2,7 @@
 
 #### I'm not finished with my project yet :/
 
-<img align="right" width="190" height="190" src="./images/nature.jpg" alt="image of city filled with nature">
+<img align="right" width="190" height="190" src="./images/city-dawn.jpg" alt="image of city at dawn">
 
 # Welcome to Newer York! (city)
 
@@ -64,7 +64,7 @@ Newer York has a variety of entertainment facilities that make living here a bla
 
 Newer York has an effective recycling program, recycling bins are everywhere in the city and advanced sorting techniques are used to minimise waste sent to landfills. We also recognise that composting is an effective and useful way to reuse waste, and we actively encouraged our community to seperate food scraps from other waste. We are also actively working on minimising the amount of single-use plastics we use, and we are trying to transition over to using recycled paper. Newer York is renowned for fully switching to nuclear power. We effectively recycle used nuclear fuel to reduce the amount of nuclear waste we produce. We also highly encourage biking and have invested heavily in biking infrastructure, promoting physical fitness, reducing traffic congestion, and minimising our carbon footprint. We care about the environment, so we fund initiatives and raise awareness on environmental issues and promote sustainable practises so current and future generations can live in a better world.
 
-<img align="right" width="200" height="175" src="./images/river.jpg" alt="image of city and a lake">
+<img align="right" width="200" height="175" src="./images/city-night.jpg" alt="image of city at night">
 
 ## Conclusion (city)
 
