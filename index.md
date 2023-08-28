@@ -48,7 +48,7 @@ As Newer York relies heavily on nuclear power, we make sure we have safety measu
 
 ## Housing
 
-Housing in Newer York is cheap and available, and there are plenty of options to choose from. You can choose a scenic view of Azure Bay, or you could decide to live in an apartment near the bustling city centre with excellent facilities a few footsteps away. You could also choose to live in the spacious countryside and be free from the chaos of the city. Newer York's housing is, of course, powered by eco-friendly nuclear energy. However, we recognise that 
+Housing in Newer York is cheap and available, and there are plenty of options to choose from. You can choose a scenic view of Azure Bay, or you could decide to live in an apartment near the bustling city centre with excellent facilities a few footsteps away. You could also choose to live in the spacious countryside and be free from the chaos of the city. Newer York's housing is, of course, powered by eco-friendly nuclear energy. However, we recognise that some are not economically stable enough to afford housing, so we have free public housing that anyone can stay in, and basic needs are fulfilled, with access to clean water, electricity, and a place to rest, as well as regularly cleaning.
 
 ## Transport
 
