@@ -2,7 +2,7 @@
 
 #### I'm not finished with my project yet :/
 
-<img align="right" width="200" height="200" src="./images/nature.jpg" alt="image of city filled with nature">
+<img align="right" width="190" height="190" src="./images/nature.jpg" alt="image of city filled with nature">
 
 # Welcome to Newer York! 
 
@@ -72,7 +72,7 @@ Newer York is renowned for fully switching to nuclear power. We effectively recy
 
 We also highly encourage biking and have invested heavily in biking infrastructure, promoting physical fitness, reducing traffic congestion, and minimising our carbon footprint. We care about the environment, so we fund initiatives and raise awareness on environmental issues and promote sustainable practises so current and future generations can live in a better world.
 
-<img align="right" width="300" height="300" src="./images/river.jpg" alt="image of city and a lake">
+<img align="right" width="200" height="175" src="./images/river.jpg" alt="image of city and a lake">
 
 ## Conclusion
 
