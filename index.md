@@ -10,7 +10,7 @@
 
 Newer York is the superior successor to New York. Newer York's healthcare is the best in the world, with clean, efficient facilities and new technologies and treatments are always being developed. With a fair democracy and a stable, uncorrupt government, Newer York's government is transparent and there are laws against discrimination. With convenient access to goods and services, accessible public transportation, excellent recreational facilities, and affordable housing, living here is comfortable. And you can be rest assured knowing that your safety is our number one priority, with an effective police force and good foreign relations, conflict is minimal. Of course, Newer York strives to be sustainable, with many environmental policies and a switch over to nuclear energy, we try to preserve the environment and our resources so generations now and in the future can live a healthy and happy life.
 
-<img align="right" width="180" height="180" src="./images/market.jpg" alt="image of shop">
+<img align="right" width="180" height="135" src="./images/market.jpg" alt="image of shop">
 
 ## [!] Availability of Goods and Services
 
@@ -18,7 +18,7 @@ Newer York has numerous retail stores across the city, with quality goods and se
 
 We try to be sustainable, however, so we seek for local suppliers from Newer York first. Only when we cannot source things we need we seek non-local suppliers. We also try to use every usable part of a resource to minimise waste. 
 
-<img align="right" width="180" height="180" src="./images/hospital.jpg" alt="image of hospital">
+<img align="right" width="250" height="130" src="./images/hospital.jpg" alt="image of hospital">
 
 ## [!] Healthcare
 
@@ -30,7 +30,7 @@ We prioritise regular check-ups and try to prevent emergencies before they happe
 
 Newer York has supported many initiatives to improve the welfare and health of the community, and we highly encourage physical activity, healthy eating, and mental wellbeing.
 
-<img align="right" width="180" height="180" src="./images/government.jpg" alt="image of governmental building">
+<img align="right" width="300" height="180" src="./images/government.jpg" alt="image of governmental building">
 
 ## [!] Governance
 
@@ -42,7 +42,7 @@ Newer York's foreign relations are strong, the city actively encourages cooperat
 
 There are several laws that ensure there is little to no corruption and that power is not abused for self gain or short term profits. Newer York's government is transparent, public officials are held accountable for their actions and information on governmental activity and policies are required to be disclosed by law.
 
-<img align="right" width="180" height="180" src="./images/police.jpg" alt="image of police">
+<img align="right" width="120" height="180" src="./images/police.jpg" alt="image of police">
 
 ## [!] Safety
 
@@ -51,6 +51,9 @@ In Newer York, your safety is our top priority. Our police force is effective an
 We have good foreign relations, so there is little to no war and international conflict. 
 
 As Newer York relies heavily on nuclear power, we make sure we have safety measures and precautions to reduce the risk of a meltdown, and we make sure that the reactor itself is far away from citizens.
+
+<img align="right" width="250" height="180" src="./images/houses.jpg" alt="image of houses">
+<img align="right" width="360" height="180" src="./images/houses2.jpg" alt="image of houses">
 
 ## Housing
 
@@ -75,7 +78,7 @@ Although we highly encourage biking and public transportation, Newer York has we
 
 Newer York has a variety of entertainment facilities that make living here a blast! Visit Azure Bay, a breathtaking beach renowned for its cleanliness and purity. We work hard to preserve the beauty of Azure Bay, and have many environmental policies to ensure it remains free of pollution. We also boast the York Library, one of the largest libraries in Europe! It's a treasure trove of information from all around the world! Our massive sports stadium hosts a variety of athletic events, tournaments, and professional matches. There's also our indoor public pool, with crystal clear waters, a place where swimmers from beginners to experts can have fun swimming! This vast array of recreational activities results in a huge tourism industry, bringing many jobs and increasing economic prosperity.
 
-<img align="right" width="200" height="200" src="./images/nuclear-power.jpg" alt="image of nuclear power plant">
+<img align="right" width="320" height="200" src="./images/nuclear-power.jpg" alt="image of nuclear power plant">
 
 ## Sustainability
 
