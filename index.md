@@ -52,8 +52,8 @@ We have good foreign relations, so there is little to no war and international c
 
 As Newer York relies heavily on nuclear power, we make sure we have safety measures and precautions to reduce the risk of a meltdown, and we make sure that the reactor itself is far away from citizens.
 
-<img align="right" width="250" height="180" src="./images/houses.jpg" alt="image of houses">
-<img align="right" width="360" height="180" src="./images/houses2.jpg" alt="image of houses">
+<img align="right" width="110" height="75" src="./images/houses.jpg" alt="image of houses">
+<img align="right" width="150" height="75" src="./images/houses2.jpg" alt="image of houses">
 
 ## Housing
 
