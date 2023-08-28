@@ -40,7 +40,7 @@ There are several laws that ensure there is little to no corruption and that pow
 
 In Newer York, your safety is our top priority. Our police force is effective and responds quickly to settle any local conflict and crime. Patrol officers are always around to check every corner of the streets for trouble.
 
-Traffic accidents happen rarely, as most people in Newer York tend to use our incredibly effective public transportation and our biking infrastructure is outstanding. However, we still implement strict traffic laws and there have been campaigns
+Traffic accidents happen rarely, as most people in Newer York tend to use our incredibly effective public transportation and our biking infrastructure is outstanding. However, we still implement strict traffic laws, and there have been many initiatives to reinforce road safety, not driving when you're drunk, and keeping your car locked in case of theft.
 
 We have good foreign relations, so there is little to no war and international conflict. 
 
