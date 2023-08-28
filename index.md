@@ -4,19 +4,19 @@
 
 <img align="right" width="190" height="190" src="./images/nature.jpg" alt="image of city filled with nature">
 
-# Welcome to Newer York! 
+# Welcome to Newer York! (city)
 
 #### Also known as "New New York"
 
 Newer York is the superior successor to New York. Newer York's healthcare is the best in the world, with clean, efficient facilities and new technologies and treatments are always being developed. With a fair democracy and a stable, uncorrupt government, Newer York's government is transparent and there are laws against discrimination. With convenient access to goods and services, accessible public transportation, excellent recreational facilities, and affordable housing, living here is comfortable. And you can be rest assured knowing that your safety is our number one priority, with an effective police force and good foreign relations, conflict is minimal. Of course, Newer York strives to be sustainable, with many environmental policies and a switch over to nuclear energy, we try to preserve the environment and our resources so generations now and in the future can live a healthy and happy life.
 
-## [!] Availability of Goods and Services
+## [!] Availability of Goods and Services (Picture of retail stores, maybe 7-Eleven?)
 
 Newer York has numerous retail stores across the city, with quality goods and services provided in each one. From high-end brands to budget-friendly options, shoppers can find everything they need. Dining options in Newer York are some of the best in the world, with exquisite cuisine from all around the world. 
 
 We try to be sustainable, however, so we seek for local suppliers from Newer York first. Only when we cannot source things we need we seek non-local suppliers. We also try to use every usable part of a resource to minimise waste. 
 
-## [!] Healthcare
+## [!] Healthcare (Picture of hospital)
 
 Newer York's affordable healthcare the best in the world. High-quality doctors and nurses are always at your service, and several sanitation policies enforce cleanliness in our healthcare facilities. 
 
@@ -26,7 +26,7 @@ We prioritise regular check-ups and try to prevent emergencies before they happe
 
 Newer York has supported many initiatives to improve the welfare and health of the community, and we highly encourage physical activity, healthy eating, and mental wellbeing.
 
-## [!] Governance
+## [!] Governance (Picture of either election/government building)
 
 The city of Newer York has a fair democracy, ensuring every citizen has their voice heard. 
 
@@ -36,7 +36,7 @@ Newer York's foreign relations are strong, the city actively encourages cooperat
 
 There are several laws that ensure there is little to no corruption and that power is not abused for self gain or short term profits. Newer York's government is transparent, public officials are held accountable for their actions and information on governmental activity and policies are required to be disclosed by law.
 
-## [!] Safety
+## [!] Safety (Traffic safety picture/police officers)
 
 In Newer York, your safety is our top priority. Our police force is effective and responds quickly to settle any local conflict and crime. Patrol officers are always around to check every corner of the streets for trouble. Traffic accidents happen rarely, as most people in Newer York tend to use our incredibly effective public transportation and our biking infrastructure is outstanding. However, we still implement strict traffic laws, and there have been many initiatives to reinforce road safety, not driving when you're drunk, and keeping your car locked in case of theft.
 
@@ -44,11 +44,11 @@ We have good foreign relations, so there is little to no war and international c
 
 As Newer York relies heavily on nuclear power, we make sure we have safety measures and precautions to reduce the risk of a meltdown, and we make sure that the reactor itself is far away from citizens.
 
-## Housing
+## Housing (houses beside a beach)
 
 Housing in Newer York is cheap and available, and there are plenty of options to choose from. You can choose a scenic view of Azure Bay, or you could decide to live in an apartment near the bustling city centre with excellent facilities a few footsteps away. You could also choose to live in the spacious countryside and be free from the chaos of the city. Newer York's housing is, of course, powered by eco-friendly nuclear energy. However, we recognise that some are not economically stable enough to afford housing, so we have free public housing that anyone can stay in, and basic needs are fulfilled, with access to clean water, electricity, and a place to rest, as well as regularly cleaning.
 
-## [!] Transport
+## [!] Transport (train station/biking)
 
 Public transport is easily accessible, with our excellent subway system reaching to every corner of the city, allowing convenient travel 24/7. Accessibility is a key priority in Newer York, our train stations are equipped with elevators and ramps, and we encourage the community to give their seat to those who need it more than them. 
 
@@ -56,17 +56,17 @@ Not only that, in Newer york, you can get almost anywhere on bike, with bike lan
 
 Although we highly encourage biking and public transportation, Newer York has well-maintained roads with advanced traffic infrastructure that ensures the safety of the community, and traffic accidents are rare.
 
-## Recreational Facilities
+## Recreational Facilities (Azure Bay/liberary/pool/sports stadium)
 
 Newer York has a variety of entertainment facilities that make living here a blast! Visit Azure Bay, a breathtaking beach renowned for its cleanliness and purity. We work hard to preserve the beauty of Azure Bay, and have many environmental policies to ensure it remains free of pollution. We also boast the York Library, one of the largest libraries in Europe! It's a treasure trove of information from all around the world! Our massive sports stadium hosts a variety of athletic events, tournaments, and professional matches. There's also our indoor public pool, with crystal clear waters, a place where swimmers from beginners to experts can have fun swimming! This vast array of recreational activities results in a huge tourism industry, bringing many jobs and increasing economic prosperity.
 
-## Sustainability
+## Sustainability (recycling/carbon footprint/environment)
 
 Newer York has an effective recycling program, recycling bins are everywhere in the city and advanced sorting techniques are used to minimise waste sent to landfills. We also recognise that composting is an effective and useful way to reuse waste, and we actively encouraged our community to seperate food scraps from other waste. We are also actively working on minimising the amount of single-use plastics we use, and we are trying to transition over to using recycled paper. Newer York is renowned for fully switching to nuclear power. We effectively recycle used nuclear fuel to reduce the amount of nuclear waste we produce. We also highly encourage biking and have invested heavily in biking infrastructure, promoting physical fitness, reducing traffic congestion, and minimising our carbon footprint. We care about the environment, so we fund initiatives and raise awareness on environmental issues and promote sustainable practises so current and future generations can live in a better world.
 
 <img align="right" width="200" height="175" src="./images/river.jpg" alt="image of city and a lake">
 
-## Conclusion
+## Conclusion (city)
 
 From great healthcare, an emphasis for your safety and a strong and stable government to convenient transportation, accessible goods and services, cheap housing and amazing recreational activities, Newer York has everything you could possibly want! 
 
