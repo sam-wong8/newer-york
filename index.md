@@ -30,7 +30,7 @@ Newer York has supported many initiatives to improve the welfare and health of t
 
 The city of Newer York has a fair democracy, ensuring every citizen has their voice heard. 
 
-Newer York has laws against any discrimination and ensures that judgement and elections are fair, and any citizen can run for leadership positions. 
+Newer York has laws against any discrimination and ensures that judgement and elections are fair, and any good citizen can run for leadership positions. 
 
 Newer York's foreign relations are strong, the city actively encourages cooperation between foreign nations, promoting peace, strong alliances, and global progress. 
 
@@ -48,7 +48,7 @@ As Newer York relies heavily on nuclear power, we make sure we have safety measu
 
 ## Housing
 
-Housing in Newer York is cheap and available, and there are plenty of options to choose from. You can choose a scenic view of Azure Bay, or you could decide to live in an apartment near the bustling city centre with excellent facilities a few footsteps away. You could also choose to live in the spacious countryside and be free from the chaos of the city. Newer York's housing is, of course, powered by eco-friendly nuclear energy.
+Housing in Newer York is cheap and available, and there are plenty of options to choose from. You can choose a scenic view of Azure Bay, or you could decide to live in an apartment near the bustling city centre with excellent facilities a few footsteps away. You could also choose to live in the spacious countryside and be free from the chaos of the city. Newer York's housing is, of course, powered by eco-friendly nuclear energy. However, we recognise that 
 
 ## Transport
 
@@ -60,7 +60,7 @@ Although we highly encourage biking and public transportation, Newer York has we
 
 ## Recreational Facilities
 
-Newer York has a variety of entertainment facilities that make living here a blast! Visit Azure Bay, a breathtaking beach renowned for its cleanliness and purity. We work hard to preserve the beauty of Azure Bay, and have many environmental policies to ensure it remains free of pollution. We also boast the York Library, one of the largest libraries in Europe! It's a treasure trove of information from all around the world! Our massive sports stadium hosts a variety of athletic events, tournaments, and professional matches. There's also our indoor public pool, with crystal clear waters, a place where swimmers from beginners to experts can have fun swimming!
+Newer York has a variety of entertainment facilities that make living here a blast! Visit Azure Bay, a breathtaking beach renowned for its cleanliness and purity. We work hard to preserve the beauty of Azure Bay, and have many environmental policies to ensure it remains free of pollution. We also boast the York Library, one of the largest libraries in Europe! It's a treasure trove of information from all around the world! Our massive sports stadium hosts a variety of athletic events, tournaments, and professional matches. There's also our indoor public pool, with crystal clear waters, a place where swimmers from beginners to experts can have fun swimming! This vast array of recreational activities results in a huge tourism industry, bringing many jobs and increasing economic prosperity.
 
 ## Sustainability
 
