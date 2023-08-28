@@ -4,7 +4,7 @@
 
 <img align="right" width="190" height="190" src="./images/city-dawn.jpg" alt="image of city at dawn">
 
-# Welcome to Newer York! (city)
+# Welcome to Newer York!
 
 #### Also known as "New New York"
 
@@ -12,7 +12,7 @@ Newer York is the superior successor to New York. Newer York's healthcare is the
 
 <img align="right" width="180" height="180" src="./images/market.jpg" alt="image of shop">
 
-## [!] Availability of Goods and Services (Picture of retail stores, maybe 7-Eleven?)
+## [!] Availability of Goods and Services
 
 Newer York has numerous retail stores across the city, with quality goods and services provided in each one. From high-end brands to budget-friendly options, shoppers can find everything they need. Dining options in Newer York are some of the best in the world, with exquisite cuisine from all around the world. 
 
@@ -20,7 +20,7 @@ We try to be sustainable, however, so we seek for local suppliers from Newer Yor
 
 <img align="right" width="180" height="180" src="./images/hospital.jpg" alt="image of hospital">
 
-## [!] Healthcare (Picture of hospital)
+## [!] Healthcare
 
 Newer York's affordable healthcare the best in the world. High-quality doctors and nurses are always at your service, and several sanitation policies enforce cleanliness in our healthcare facilities. 
 
@@ -32,7 +32,7 @@ Newer York has supported many initiatives to improve the welfare and health of t
 
 <img align="right" width="180" height="180" src="./images/government.jpg" alt="image of governmental building">
 
-## [!] Governance (Picture of either election/government building)
+## [!] Governance
 
 The city of Newer York has a fair democracy, ensuring every citizen has their voice heard. 
 
@@ -44,7 +44,7 @@ There are several laws that ensure there is little to no corruption and that pow
 
 <img align="right" width="180" height="180" src="./images/police.jpg" alt="image of police">
 
-## [!] Safety (Traffic safety picture/police officers)
+## [!] Safety
 
 In Newer York, your safety is our top priority. Our police force is effective and responds quickly to settle any local conflict and crime. Patrol officers are always around to check every corner of the streets for trouble. Traffic accidents happen rarely, as most people in Newer York tend to use our incredibly effective public transportation and our biking infrastructure is outstanding. However, we still implement strict traffic laws, and there have been many initiatives to reinforce road safety, not driving when you're drunk, and keeping your car locked in case of theft.
 
@@ -52,14 +52,14 @@ We have good foreign relations, so there is little to no war and international c
 
 As Newer York relies heavily on nuclear power, we make sure we have safety measures and precautions to reduce the risk of a meltdown, and we make sure that the reactor itself is far away from citizens.
 
-## Housing (houses beside a beach)
+## Housing
 
 Housing in Newer York is cheap and available, and there are plenty of options to choose from. You can choose a scenic view of Azure Bay, or you could decide to live in an apartment near the bustling city centre with excellent facilities a few footsteps away. You could also choose to live in the spacious countryside and be free from the chaos of the city. Newer York's housing is, of course, powered by eco-friendly nuclear energy. However, we recognise that some are not economically stable enough to afford housing, so we have free public housing that anyone can stay in, and basic needs are fulfilled, with access to clean water, electricity, and a place to rest, as well as regularly cleaning.
 
 <img align="right" width="160" height="160" src="./images/bike.jpg" alt="image of a bicycle">
 <img align="right" width="160" height="160" src="./images/train.jpg" alt="image of a train station">
 
-## [!] Transport (train station/biking)
+## [!] Transport
 
 Public transport is easily accessible, with our excellent subway system reaching to every corner of the city, allowing convenient travel 24/7. Accessibility is a key priority in Newer York, our train stations are equipped with elevators and ramps, and we encourage the community to give their seat to those who need it more than them. 
 
@@ -83,7 +83,7 @@ Newer York has an effective recycling program, recycling bins are everywhere in 
 
 <img align="right" width="200" height="175" src="./images/city-night.jpg" alt="image of city at night">
 
-## Conclusion (city)
+## Conclusion
 
 From great healthcare, an emphasis for your safety and a strong and stable government to convenient transportation, accessible goods and services, cheap housing and amazing recreational activities, Newer York has everything you could possibly want! 
 
