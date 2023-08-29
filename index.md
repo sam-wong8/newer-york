@@ -57,14 +57,18 @@ As Newer York relies heavily on nuclear power, we make sure we have safety measu
 
 ## Housing
 
-Housing in Newer York is cheap and available, and there are plenty of options to choose from. You can choose a scenic view of Azure Bay, or you could decide to live in an apartment near the bustling city centre with excellent facilities a few footsteps away. You could also choose to live in the spacious countryside and be free from the chaos of the city. Newer York's housing is, of course, powered by eco-friendly nuclear energy. However, we recognise that some are not economically stable enough to afford housing, so we have free public housing that anyone can stay in, and basic needs are fulfilled, with access to clean water, electricity, and a place to rest, as well as regularly cleaning.
+Housing in Newer York is cheap and available,
+
+and there are plenty of options to choose from. You can choose a scenic view of Azure Bay, or you could decide to live in an apartment near the bustling city centre with excellent facilities a few footsteps away. You could also choose to live in the spacious countryside and be free from the chaos of the city. Newer York's housing is, of course, powered by eco-friendly nuclear energy. However, we recognise that some are not economically stable enough to afford housing, so we have free public housing that anyone can stay in, and basic needs are fulfilled, with access to clean water, electricity, and a place to rest, as well as regularly cleaning.
 
 <img align="right" width="160" height="160" src="./images/bike.jpg" alt="image of a bicycle">
 <img align="right" width="160" height="160" src="./images/train.jpg" alt="image of a train station">
 
 ## [!] Transport
 
-Public transport is easily accessible, with our excellent subway system reaching to every corner of the city, allowing convenient travel 24/7. Accessibility is a key priority in Newer York, our train stations are equipped with elevators and ramps, and we encourage the community to give their seat to those who need it more than them. 
+Public transport is easily accessible, with our excellent subway system reaching to every corner of the city, allowing convenient travel 24/7. 
+
+Accessibility is a key priority in Newer York, our train stations are equipped with elevators and ramps, and we encourage the community to give their seat to those who need it more than them. 
 
 Not only that, in Newer york, you can get almost anywhere on bike, with bike lanes stretching across the city and high-quality biking infrastructure available everywhere in the city. 
 
@@ -76,7 +80,9 @@ Although we highly encourage biking and public transportation, Newer York has we
 
 ## Recreational Facilities
 
-Newer York has a variety of entertainment facilities that make living here a blast! Visit Azure Bay, a breathtaking beach renowned for its cleanliness and purity. We work hard to preserve the beauty of Azure Bay, and have many environmental policies to ensure it remains free of pollution. We also boast the York Library, one of the largest libraries in Europe! It's a treasure trove of information from all around the world! Our massive sports stadium hosts a variety of athletic events, tournaments, and professional matches. There's also our indoor public pool, with crystal clear waters, a place where swimmers from beginners to experts can have fun swimming! This vast array of recreational activities results in a huge tourism industry, bringing many jobs and increasing economic prosperity.
+Newer York has a variety of entertainment facilities that make living here a blast! 
+
+Visit Azure Bay, a breathtaking beach renowned for its cleanliness and purity. We work hard to preserve the beauty of Azure Bay, and have many environmental policies to ensure it remains free of pollution. We also boast the York Library, one of the largest libraries in Europe! It's a treasure trove of information from all around the world! Our massive sports stadium hosts a variety of athletic events, tournaments, and professional matches. There's also our indoor public pool, with crystal clear waters, a place where swimmers from beginners to experts can have fun swimming! This vast array of recreational activities results in a huge tourism industry, bringing many jobs and increasing economic prosperity.
 
 <img align="right" width="320" height="200" src="./images/nuclear-power.jpg" alt="image of nuclear power plant">
 
