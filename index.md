@@ -34,13 +34,7 @@ Newer York has supported many initiatives to improve the welfare and health of t
 
 ## [!] Governance
 
-The city of Newer York has a fair democracy, ensuring every citizen has their voice heard. 
-
-Newer York has laws against any discrimination and ensures that judgement and elections are fair, and any good citizen can run for leadership positions. 
-
-Newer York's foreign relations are strong, the city actively encourages cooperation between foreign nations, promoting peace, strong alliances, and global progress. 
-
-There are several laws that ensure there is little to no corruption and that power is not abused for self gain or short term profits. Newer York's government is transparent, public officials are held accountable for their actions and information on governmental activity and policies are required to be disclosed by law.
+The city of Newer York has a fair democracy, ensuring every citizen has their voice heard. There are protections against the tampering of elections and votes, and Newer York has laws against any discrimination and ensures that judgement is fair. Newer York's foreign relations are strong, the city actively encourages cooperation between foreign nations, promoting peace, strong alliances, and global progress. There are several laws that ensure there is little to no corruption and that power is not abused for self gain or short term profits. Newer York's government is transparent, public officials are held accountable for their actions and information on governmental activity and policies are required to be disclosed by law.
 
 <img align="right" width="120" height="180" src="./images/police.jpg" alt="image of police">
 
