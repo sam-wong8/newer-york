@@ -20,19 +20,13 @@ We try to be sustainable, however, so we seek for local suppliers from Newer Yor
 
 <img align="right" width="250" height="130" src="./images/hospital.jpg" alt="image of hospital">
 
-## [!] Healthcare
+## Healthcare
 
-Newer York's affordable healthcare the best in the world. High-quality doctors and nurses are always at your service, and several sanitation policies enforce cleanliness in our healthcare facilities. 
-
-New technologies and treatments are constantly being developed and improved to provide the best healthcare. 
-
-We prioritise regular check-ups and try to prevent emergencies before they happen. Our emergency services respond almost immediately during an accident. 
-
-Newer York has supported many initiatives to improve the welfare and health of the community, and we highly encourage physical activity, healthy eating, and mental wellbeing.
+Newer York's affordable healthcare the best in the world. High-quality doctors and nurses are always at your service, and several sanitation policies enforce cleanliness in our healthcare facilities. New technologies and treatments are constantly being developed and improved to provide the best healthcare. We prioritise regular check-ups and try to prevent emergencies before they happen. Our emergency services respond almost immediately during an accident. Newer York has supported many initiatives to improve the welfare and health of the community, and we highly encourage physical activity, healthy eating, and mental wellbeing.
 
 <img align="right" width="300" height="180" src="./images/government.jpg" alt="image of governmental building">
 
-## [!] Governance
+## Governance
 
 The city of Newer York has a fair democracy, ensuring every citizen has their voice heard. There are protections against the tampering of elections and votes, and Newer York has laws against any discrimination and ensures that judgement is fair. Newer York's foreign relations are strong, the city actively encourages cooperation between foreign nations, promoting peace, strong alliances, and global progress. There are several laws that ensure there is little to no corruption and that power is not abused for self gain or short term profits. Newer York's government is transparent, public officials are held accountable for their actions and information on governmental activity and policies are required to be disclosed by law.
 
@@ -40,11 +34,7 @@ The city of Newer York has a fair democracy, ensuring every citizen has their vo
 
 ## [!] Safety
 
-In Newer York, your safety is our top priority. Our police force is effective and responds quickly to settle any local conflict and crime. Patrol officers are always around to check every corner of the streets for trouble. Traffic accidents happen rarely, as most people in Newer York tend to use our incredibly effective public transportation and our biking infrastructure is outstanding. However, we still implement strict traffic laws, and there have been many initiatives to reinforce road safety, not driving when you're drunk, and keeping your car locked in case of theft.
-
-We have good foreign relations, so there is little to no war and international conflict. 
-
-As Newer York relies heavily on nuclear power, we make sure we have safety measures and precautions to reduce the risk of a meltdown, and we make sure that the reactor itself is far away from citizens.
+In Newer York, your safety is our top priority. Our police force is effective and responds quickly to settle any local conflict and crime. Patrol officers are always around to check every corner of the streets for trouble. Traffic accidents happen rarely, as most people in Newer York tend to use our incredibly effective public transportation and our biking infrastructure is outstanding. However, we still implement strict traffic laws, and there have been many initiatives to reinforce road safety, not driving when you're drunk, and keeping your car locked in case of theft. With good foreign relations, there is little to no war and international conflict. As Newer York relies heavily on nuclear power, we make sure we have safety measures and precautions to reduce the risk of a meltdown, and we make sure that the reactor itself is far away from citizens.
 
 <img align="right" width="110" height="75" src="./images/houses.jpg" alt="image of houses">
 <img align="right" width="150" height="75" src="./images/houses2.jpg" alt="image of houses">
