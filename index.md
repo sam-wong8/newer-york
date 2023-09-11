@@ -12,11 +12,9 @@ Newer York is the superior successor to New York. Newer York's healthcare is the
 
 <img align="right" width="180" height="135" src="./images/market.jpg" alt="image of shop">
 
-## [!] Availability of Goods and Services
+## Availability of Goods and Services
 
-Newer York has numerous retail stores across the city, with quality goods and services provided in each one. From high-end brands to budget-friendly options, shoppers can find everything they need. Dining options in Newer York are some of the best in the world, with exquisite cuisine from all around the world. 
-
-We try to be sustainable, however, so we seek for local suppliers from Newer York first. Only when we cannot source things we need we seek non-local suppliers. We also try to use every usable part of a resource to minimise waste. 
+Newer York has numerous retail stores across the city, with quality goods and services provided in each one. From high-end brands to budget-friendly options, shoppers can find everything they need. Dining options in Newer York are some of the best in the world, with exquisite cuisine from all around the world. Essentials such as food and clean water are accessible across the city, cheap and available. We try to be sustainable, however, so resources are obtained from local suppliers in Newer York first. Only when we cannot source things we need we seek non-local suppliers. We also try to use every usable part of a resource to minimise waste. 
 
 <img align="right" width="250" height="130" src="./images/hospital.jpg" alt="image of hospital">
 
@@ -34,7 +32,7 @@ The city of Newer York has a fair democracy, ensuring every citizen has their vo
 
 ## [!] Safety
 
-In Newer York, your safety is our top priority. Our police force is effective and responds quickly to settle any local conflict and crime. Patrol officers are always around to check every corner of the streets for trouble. Traffic accidents happen rarely, as most people in Newer York tend to use our incredibly effective public transportation and our biking infrastructure is outstanding. However, we still implement strict traffic laws, and there have been many initiatives to reinforce road safety, not driving when you're drunk, and keeping your car locked in case of theft. With good foreign relations, there is little to no war and international conflict. As Newer York relies heavily on nuclear power, we make sure we have safety measures and precautions to reduce the risk of a meltdown, and we make sure that the reactor itself is far away from citizens.
+In Newer York, your safety is our top priority. Our police force is effective and responds quickly to settle any local conflict and crime. Patrol officers are always around to check every corner of the streets for trouble. Traffic accidents happen rarely, as most people in Newer York tend to use our incredibly effective public transportation and our biking infrastructure is outstanding. However, we still implement strict traffic laws, and there have been many initiatives to reinforce road safety, not driving when you're drunk, and keeping your car locked in case of theft. With good foreign relations, there is little to no war and international conflict. As Newer York relies heavily on nuclear power, we make sure we have safety measures and precautions to reduce the risk of a meltdown, and the reactor itself is far away from citizens. 
 
 <img align="right" width="110" height="75" src="./images/houses.jpg" alt="image of houses">
 <img align="right" width="150" height="75" src="./images/houses2.jpg" alt="image of houses">
@@ -48,15 +46,9 @@ and there are plenty of options to choose from. You can choose a scenic view of 
 <img align="right" width="160" height="160" src="./images/bike.jpg" alt="image of a bicycle">
 <img align="right" width="160" height="160" src="./images/train.jpg" alt="image of a train station">
 
-## [!] Transport
+## Transport
 
-Public transport is easily accessible, with our excellent subway system reaching to every corner of the city, allowing convenient travel 24/7. 
-
-Accessibility is a key priority in Newer York, our train stations are equipped with elevators and ramps, and we encourage the community to give their seat to those who need it more than them. 
-
-Not only that, in Newer york, you can get almost anywhere on bike, with bike lanes stretching across the city and high-quality biking infrastructure available everywhere in the city. 
-
-Although we highly encourage biking and public transportation, Newer York has well-maintained roads with advanced traffic infrastructure that ensures the safety of the community, and traffic accidents are rare.
+Public transport is easily accessible, with our excellent subway system reaching to every corner of the city, allowing convenient travel 24/7. Our trains are fast and efficient, and they're all powered with nuclear energy. Accessibility is a key priority in Newer York, so our train stations are equipped with elevators and ramps, and we encourage the community to give their seat to those who need it more than them. In train stations, there are both audio and visual announcements when a train arrives or leaves. Not only that, in Newer York, you can get almost anywhere on bike, with bike lanes stretching across the city and high-quality biking infrastructure available everywhere in the city. There are many bike rental stations, and bike lanes are nice and wide. Although we highly encourage biking and public transportation, Newer York has well-maintained roads with advanced traffic infrastructure that ensures the safety of the community, and traffic accidents are rare. There are also strict traffic laws to ensure safety on the road.
 
 <img align="right" width="100" height="100" src="./images/sport-stadium.jpg" alt="image of sport stadium">
 <img align="right" width="100" height="100" src="./images/library.jpg" alt="image of library">
