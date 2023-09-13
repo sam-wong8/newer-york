@@ -14,7 +14,7 @@ Newer York is the superior successor to New York. Newer York's healthcare is the
 
 ## Availability of Goods and Services
 
-Newer York has numerous retail stores across the city, with quality goods and services provided in each one. From high-end brands to budget-friendly options, shoppers can find everything they need. Dining options in Newer York are some of the best in the world, with exquisite cuisine from all around the world. Essentials such as food and clean water are accessible across the city, cheap and available. We try to be sustainable, however, so resources are obtained from local suppliers in Newer York first. Only when we cannot source things we need do we seek non-local suppliers. We also try to use every usable part of a resource to minimise waste. 
+Newer York has numerous retail stores across the city, with quality goods and services provided in each one. From high-end brands to budget-friendly options, shoppers can find everything they need. Dining options in Newer York are some of the best in the world, with exquisite cuisine from all around the world. Essentials such as food and clean water are accessible across the city, cheap and available. We try to be sustainable, however, so local businesses are subsidised and there is a push to use locally-produced resources. There have also been many initiatives to transition over to recycled plastics and paper.
 
 <img align="right" width="250" height="130" src="./images/hospital.jpg" alt="image of hospital">
 
