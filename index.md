@@ -1,7 +1,5 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 
-#### I'm not finished with my project yet
-
 <img align="right" width="260" height="190" src="./images/city-dawn.jpg" alt="image of city at dawn">
 
 # Welcome to Newer York!
